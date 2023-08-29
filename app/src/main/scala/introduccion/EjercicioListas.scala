@@ -80,7 +80,7 @@ class EjercicioListas {
       }
       else {
 
-        throw new java.lang.IllegalArgumentException("No implementado aun"+ criterio)
+        throw new java.lang.IllegalArgumentException("No implementado todavia"+ criterio)
 
       }
     }
